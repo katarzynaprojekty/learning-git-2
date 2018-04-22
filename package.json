@@ -19,5 +19,8 @@
   "homepage": "https://github.com/katarzynaprojekty/learning-git-2#readme",
   "dependencies": {
     "browser-sync": "^2.23.7"
+  },
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0"
   }
 }
