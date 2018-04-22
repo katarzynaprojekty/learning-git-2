@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Limelight|Montserrat|Poppins');
+body {
+    padding-left: 20px;
+}
+h1 {
+    color: crimson;
+    font-family: 'Limelight', cursive;
+}
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
+p {
+    font-size: 15px;
+    color: darkslategray;
+    font-family: 'Montserrat', sans-serif;
+}
