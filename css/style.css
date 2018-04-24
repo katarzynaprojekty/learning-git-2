@@ -1,8 +1,27 @@
 @import url("https://fonts.googleapis.com/css?family=Limelight|Montserrat|Poppins");
-body { padding-left: 20px; }
+body {
+  padding-left: 20px;
+}
 
-h1 { color: crimson; font-weight: 700; font-family: 'Limelight', cursive; }
+h1 {
+  color: crimson;
+  font-weight: 700;
+  font-family: 'Limelight', cursive;
+}
 
-h2 { color: bisque; font-family: 'Poppins', sans-serif; }
+h2 {
+  color: bisque;
+  font-family: 'Poppins', sans-serif;
+}
 
-p { font-size: 15px; color: darkslategray; font-family: 'Montserrat', sans-serif; }
+p {
+  font-size: 15px;
+  color: darkslategray;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  color: aqua;
+}
+
+/*# sourceMappingURL=style.css.map */
